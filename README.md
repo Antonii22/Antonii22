@@ -4,8 +4,7 @@
 <br>
 <br>
 
-- :100: Dedicated to **finishing** my degree while enhancing my programming skills.
-- :wrench: I’m currently learning **React Native** for my Final Degree Project.
+- :100: Dedicated to **finishing** my master while enhancing my programming skills.
 - :pushpin: Prioritizing **quality** in all my projects.
 
 <br>
